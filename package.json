@@ -1,0 +1,19 @@
+{
+  "name": "festia",
+  "version": "1.0.0",
+  "description": "jeux test",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "max and pl",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^10.1.5",
+    "electron-builder": "^22.9.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "custom-electron-titlebar": "^3.2.5"
+  }
+}
